@@ -23,7 +23,7 @@ Additionally, you can create a **hardware Virtual Private Network (VPN)** connec
 
 ### Network Diagram
 
-![[./resources/img/VPC-network-diagram-1.png]]
+![VPC-network-diagram-1](./resources/img/VPC-network-diagram-1.png)
 ### VPC Features
 
 **Launch Instances**
@@ -190,7 +190,7 @@ Sometimes you may need to have several VPCs for different environments, and it m
 ### Transitive Peering
 Transitive peering is not allowed.  A VPC cannot connect to another VPC via a peer.  It must directly peer with a VPC it needs to connect to.
 
-![[./resources/img/VPC-transitive-peering.png]]
+![VPC-transitive-peering](./resources/img/VPC-transitive-peering.png)
 ### Exam Tips
 
 - **Allows you to connect** 1 VPC to another via a direct network route using private IP addresses
@@ -259,7 +259,7 @@ Using AWS Direct Connect you can establish private connectivity between AWS and 
 
 ### Direct Connect in Action
 
-![[./resources/img/VPC-direct-connect.png]]
+![VPC-direct-connect](./resources/img/VPC-direct-connect.png)
 
 ### VPN vs. Direct Connect
 
@@ -286,9 +286,9 @@ AWS Transit Gateway connects VPCs and on-premises networks through a central hub
 
 ### Simplify Network Topology
 
-![[./resources/img/VPC-transit-gateway-complex-network.png]]
+![VPC-transit-gateway-complex-network](./resources/img/VPC-transit-gateway-complex-network.png)
 
-![[./resources/img/VPC-transit-gateway-simplified.png]]
+![VPC-transit-gateway-simplified](./resources/img/VPC-transit-gateway-simplified.png)
 
 ### Transit Gateway Facts
 

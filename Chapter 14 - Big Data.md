@@ -151,11 +151,11 @@ There are 2 major types of Kinesis you need to be familiar with
 
 ### Kinesis Data Streams
 
-![[./resources/img/Big-Data-Kinesis-DataStream.png]]
+![Big-Data-Kinesis-DataStream](./resources/img/Big-Data-Kinesis-DataStream.png)
 
 ### Kinesis Data Firehose
 
-![[./resources/img/Big-Data-Kinesis-Data-Firehose.png]]
+![Big-Data-Kinesis-Data-Firehose](./resources/img/Big-Data-Kinesis-Data-Firehose.png)
 ### Kinesis Data Analytics and SQL
 
 Analyze data using standard SQL
@@ -278,7 +278,7 @@ Define the locations and types of data that will be input and output.
 
 ### Example Diagram
 
-![[./resources/img/Big-Data-AWS-Data-Pipeline.png]]
+![Big-Data-AWS-Data-Pipeline](./resources/img/Big-Data-AWS-Data-Pipeline.png)
 
 ---
 ## Amazon Managed Streaming for Apache Kafka (MSK)
@@ -374,7 +374,7 @@ It is the successor to Amazon Elasticsearch Service
 
 ### Example Diagram
 
-![[./resources/img/Big-Data-Amazon-OpenSearch-Service.png]]
+![Big-Data-Amazon-OpenSearch-Service](./resources/img/Big-Data-Amazon-OpenSearch-Service.png)
 
 ### Exam Tip
 

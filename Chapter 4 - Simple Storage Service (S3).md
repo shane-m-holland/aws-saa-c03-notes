@@ -238,11 +238,11 @@ Ideal storage class for archive data that does not require immediate access but 
 **Glacier Deep Archive**
 Cheapest storage class and designed for customers that retain data sets for 7-10 years or longer to meet customer needs and regulatory compliance requirements.  The standard retrieval time is 12 hours, and the bulk retrieval time is 48 hours.
 
-![[./resources/img/S3-storage-classes.png]]
+![S3-storage-classes](./resources/img/S3-storage-classes.png)
 
-![[./resources/img/S3-storage-classes-cost-1.png]]
+![S3-storage-classes-cost-1](./resources/img/S3-storage-classes-cost-1.png)
 
-![[./resources/img/S3-storage-classes-cost-2.png]]
+![S3-storage-classes-cost-2](./resources/img/S3-storage-classes-cost-2.png)
 
 ---
 ## Lifecycle Management with S3

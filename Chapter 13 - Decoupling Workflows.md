@@ -452,7 +452,7 @@ Supported types: Run on demand, Run on event, Run on schedule
 
 ### Example Diagram
 
-![[./resources/img/Amazon-AppFlow-Example-Diagram.png]]
+![Amazon-AppFlow-Example-Diagram](./resources/img/Amazon-AppFlow-Example-Diagram.png)
 
 ### AppFlow Use Cases
 

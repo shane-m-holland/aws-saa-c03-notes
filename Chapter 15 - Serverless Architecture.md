@@ -4,7 +4,7 @@
 
 ### History of Computing
 
-![[./resources/img/Serverless-history-of-computing.png]]
+![Serverless-history-of-computing](./resources/img/Serverless-history-of-computing.png)
 
 ### Serverless Benefits
 
@@ -89,11 +89,11 @@ Run your code on demand with automated scaling.
 
 Processing a file from S3 triggered by `PutObject`
 
-![[./resources/img/Serverless-Lambda-Architecture-01.png]]
+![Serverless-Lambda-Architecture-01](./resources/img/Serverless-Lambda-Architecture-01.png)
 
 Leverage EventBridge to run a Lambda on a cron or at a Rate
 
-![[./resources/img/Serverless-Lambda-Architecture-02.png]]
+![Serverless-Lambda-Architecture-02](./resources/img/Serverless-Lambda-Architecture-02.png)
 
 ---
 ## Leveraging the AWS Serverless Application Repository
@@ -142,7 +142,7 @@ There are currently two options to choose from.
 
 A container is a standard unit of software that packages up code and all its dependencies, so the application runs quickly and reliably from one computing environment to another.
 
-![[./resources/img/Serverless-Containers-Overview.png]]
+![Serverless-Containers-Overview](./resources/img/Serverless-Containers-Overview.png)
 
 ### Container Terminology
 

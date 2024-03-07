@@ -224,7 +224,7 @@ A strongly consistent read **returns a result that reflects all writes** that re
 ## When Do We Use DynamoDB Transactions
 
 ### ACID Diagram
-![[./resources/img/DyanmoDB-ACID-diagram.png]]
+![DyanmoDB-ACID-diagram](./resources/img/DyanmoDB-ACID-diagram.png)
 ### ACID with DynamoDB
 
 DynamoDB transactions provide developers atomicity, consistency, isolation, and durability (ACID) across 1 or more tables within a single AWS account and region.
