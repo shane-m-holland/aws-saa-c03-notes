@@ -71,7 +71,7 @@ How many instances do you want right now?
 - Perform custom actions on instances when corresponding lifecycle events occur.
 - Capability to wait up to 2 hours.
 
-![Scaling - Lifecycle Hooks](./resources/img/Scaling - Lifecycle Hooks.png)
+![Scaling - Lifecycle Hooks](./resources/img/Scaling%20-%20Lifecycle%20Hooks.png)
 
 ### Auto Scaling and High Availability
 

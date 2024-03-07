@@ -54,7 +54,7 @@ Each rule consists of a priority, one or more actions, and one or more condition
 Each **target group** routes requests to one or more registered targets, such as EC2 instances, using the protocol and port number you specify
 
 ### Application Load Balancer Diagram
-![ELB - Application Load Balancer Diagram](./resources/img/ELB - Application Load Balancer Diagram.png)
+![ELB - Application Load Balancer Diagram](./resources/img/ELB%20-%20Application%20Load%20Balancer%20Diagram.png)
 ### Path-Based Routing
 **Common Exam Scenario**
 Enable Path Patterns to route based on URL path patterns.
